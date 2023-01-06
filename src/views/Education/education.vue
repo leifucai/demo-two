@@ -38,7 +38,7 @@ h1{
 .box-card-one{
     margin-bottom: 120px;
     margin-left:80px;
-    height: 100vh;
+    /* height: 100vh; */
     width: 60%;
     float: left;
 }

@@ -37,7 +37,7 @@ h1{
 }
 .box-card-one{
     margin-left:80px;
-    height: 80vh;
+    /* height: 80vh; */
     width: 30%;
     background: url("../../assets/img/box-card-two.jpg");
     float: left;
@@ -46,17 +46,17 @@ h1{
 .box-card-two{
     margin-bottom: 120px;
     margin-left: 20px;
-    height: 105vh;
+    /* height: 105vh; */
     width: 60%;
     float: left;
     background-color: white;
 }
 .box-card-three{
-    left: 90px;
-    top: 720px;
+    left: 80px;
+    top: 650px;
     position: absolute;
-    width: 29%;
-    height: 38vh;
+    width: 30%;
+    height: 270px;
     background: url("../../assets/img/personnel/personnel1.png");
     background-repeat: no-repeat;
     background-position: center center;

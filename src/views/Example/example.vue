@@ -44,15 +44,16 @@ h1{
     font-weight: 800;
 }
 .box-card-one{
+    padding-bottom: 30px;
     margin-left:80px;
-    height: 55vh;
+    /* height: 55vh; */
     width: 30%;
     background: url("../../assets/img/box-card-two.jpg");
     float: left;
 }
 .box-card-two{
     margin-left: 20px;
-    height: 115vh;
+    /* height: 115vh; */
     width: 60%;
     float: left;
     background-color:white;
@@ -67,7 +68,8 @@ h1{
     position: absolute;
     left: 80px;
     top:580px;
-    height: 55vh;
+    padding-bottom: 30px;
+    /* height: 55vh; */
     width: 400px;
     background: url("../../assets/img/box-card-two.jpg");
     float: left;
